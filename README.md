@@ -1,4 +1,4 @@
-![vd20260316131010.gif](..%2Fvd20260316131010.gif)
+![gitphoto.gif](./wanwan-jiang/gitphoto.gif)
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
