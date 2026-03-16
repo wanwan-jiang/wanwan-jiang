@@ -1,4 +1,6 @@
-<img align="middle" alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
+<p style="text-align: center;">
+    <img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
+</p>
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
