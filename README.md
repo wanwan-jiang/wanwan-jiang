@@ -1,6 +1,8 @@
+![1009ed54c7a64f70b9ca93db9894b590.webp](..%2F1009ed54c7a64f70b9ca93db9894b590.webp)
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
+- An engineer who can deeply understand customer needs and is proficient in the product.
 - I'm currently learning **Html5,Css3,Scss,JavaScript(ES6+),TypeScript,Vue2,Vue3,Webpack,Vite**
 
 [//]: # (- A developer who best understands customers and products, and the strongest engineer among those who communicate with customers and understand products.)
@@ -16,8 +18,8 @@
 ⚡ **Fun Fact**
 - I like singing  🏸🏊‍♂️
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wanwan&card_width=496)](https://git.io/streak-stats)
+[//]: # (展示贡献图)
+[//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com?user=wanwan&card_width=496&#41;]&#40;https://git.io/streak-stats&#41;)
 
 
 <h3 align="left">Languages and Tools:</h3>
