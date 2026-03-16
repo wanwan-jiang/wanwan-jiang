@@ -1,6 +1,4 @@
-<div align="center">
-<img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
-<div>
+<img align="middle" alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
