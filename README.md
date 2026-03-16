@@ -1,6 +1,5 @@
-<p style="text-align: center;">
-    <img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
-</p>
+<img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
