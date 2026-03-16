@@ -1,4 +1,4 @@
-<h3 align="left">
+<h3 align="middle">
 <img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
 </h3>
 
