@@ -1,4 +1,4 @@
-![gitphoto.gif](./gitphoto.gif)
+<img alt="gitphoto.gif" src="./gitphoto.gif" width="500"/>
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
