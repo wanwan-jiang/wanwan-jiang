@@ -1,4 +1,7 @@
-<img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+<h3 align="left">
+<img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
+</h3>
+
 
 ## Hi 👋, I'm wanwan
 
