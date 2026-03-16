@@ -1,4 +1,4 @@
-<div style="margin: auto">
+<div align="center">
 <img alt="gitphoto.gif" src="./gitphoto.gif" width="300" height="300"/>
 <div>
 ## Hi 👋, I'm wanwan
