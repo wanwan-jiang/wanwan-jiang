@@ -14,7 +14,7 @@
 - Email: d2cc2ae@126.com
 
 ⚡ **Fun Fact**
-- I like singing 🏸🏊‍♂️
+- I like singing  🏸🏊‍♂️
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wanwan&card_width=496)](https://git.io/streak-stats)
