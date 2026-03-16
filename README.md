@@ -1,4 +1,4 @@
-<img alt="1e50505a687e9218ce99f5c69e4055de.gif" src="./1e50505a687e9218ce99f5c69e4055de.gif" width="300"/>
+<img alt="gitphoto.gif" src="./gitphoto.gif" width="500" height="300"/>
 ## Hi 👋, I'm wanwan
 
 💻 **Front-end Engineer**
